@@ -1,8 +1,6 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
 ![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
-# BLE Telink Mesh Quick Start
-
 ## Introduction
 
 8266, 8267, 8269 and 8258 support Telink proprietary BLE mesh, and they are covered in the same Telink mesh SDK. Telink Mesh is a proprietary mesh solution based on BLE technology, it can be used for various smart home and smart control applications such as lighting, sensors, controls, and switch.
